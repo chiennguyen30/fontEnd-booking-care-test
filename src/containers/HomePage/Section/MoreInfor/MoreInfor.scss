@@ -1,0 +1,54 @@
+.more-infor-container{
+  .more-infor{
+    .header-Clinic{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      
+    }
+    .title-more-infor{
+      font-size: 18px;
+      font-weight: 600;
+      margin-top: 20px;
+      i{
+        color: rgb(15, 191, 226);
+        cursor: pointer;
+      }
+      
+    }
+    .search-more-infor{
+      margin: 20px 0;
+      width: fit-content;
+      
+      padding: 10px;
+      border-radius: 10px;
+      background-color: rgb(255, 180, 40);
+      i {
+        margin: 0 5px;
+        color: black;
+      }
+      input { 
+        width: 200px;
+        background: transparent;
+        border: none;
+        outline: none;
+      }
+    }
+    .more-infor-body{
+      .more-infor-item{
+        display: flex;
+        align-items: center;
+        margin-top: 40px;
+        cursor: pointer;
+        
+      }
+      .more-infor-name{
+        font-size: 18px;
+        margin-left: 20px;
+        font-weight: 600;
+        font-style: italic;
+      }
+    }
+  }
+
+}

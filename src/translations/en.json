@@ -1,0 +1,124 @@
+{
+    "homeheader":{
+        "speciality": "medical specialist",
+        "DoctorsSpecialty":"Find doctors by specialty",
+        "health-facility": "health facility",
+        "Choose-hospital" : "Choose a hospital or clinic",
+        "doctor": "Doctor",
+        "select-doctor": " Select a doctor",
+        "fee": "examination package",
+        "General-health-check" : "General health check",
+        "support": "support",
+        "welcome": "Welcome"
+    },
+    "banner":{
+        "MEDICAL-FOUNDATION":"MEDICAL FOUNDATION",
+        "HEALTH-CARE":"COMPREHENSIVE HEALTHCARE",
+        "Specialized-examination":"Specialist examination",
+        "Telemedicine":"Remote medical examination",
+        "General-examination":"General examination",
+        "Medical-tests":"Medical tests",
+        "Mental-health":"Mental health",
+        "Dental-examination":"Dental examination"
+    },
+    "menu": {
+        
+        "admin":{
+            "manage-user" : "Management user",
+            "manage-doctor" : "Management doctor",
+            "manage-admin" : "Management admin",
+            "CRUD" : "CURD user ",
+            "CRUD-redux" : "CURD redux",
+            "manage-clinic": "Management clinic",
+            "clinic": "Clinic",
+            "specialty" : "Specialty",
+            "manage-specialty": "Specialty management",
+            "handbook": "Handbook",
+            "manage-handbook": "Management handbook"
+
+        },
+        "doctor":{
+            "manage-schedule" : "Manage Doctor's schedule",
+            "manage-patient" : "Manage medical examination patients "
+        }
+    },
+    "manage-user": {
+        "add-user" : "Add new user",
+        "edit-user" : "Change user information",
+        "email" : "Email",
+        "password" : "password",
+        "first-name" : "First name",
+        "last-name" : "Last name",
+        "role" : "role",
+        "phone-number" : "Phone number",
+        "address":"Address",
+        "gender":"Gender",
+        "position":"Position",
+        "image":"Avatar",
+        "save": "Save",
+        "edit": "Save changes"
+
+    },
+    "home-page":{
+        "Outstanding-doctor" : "Outstanding doctor",
+        "More-infor" : "More infor",
+        "Specialist" : "Specialist",
+        "Health-facilities": "Health facilities",
+        "Handbook": "Hand book",
+        "What-does-the-media-talk-about" : "What does the media talk about?"
+    },
+    "manage-schedule" :{
+        "title": "Manage doctor's medical examination plans",
+        "choose-doctor": "Choose doctor",
+        "choose-date": "Choose date",
+        "save": "Save"
+    },
+    "patient" :{
+        "detail-doctor" : {
+            "schedule" : "schedule",
+            "no-schedule" : "Doctors do not have appointments during this time period, please choose another time period !!!",
+            "choose" : "Choose ",
+            "book-free"  : " and book (free)"
+        },
+        "extra-infor-doctor" :{
+            "text-address" : "examination address",
+            "EXAMINATION-PRICE": "Examination price :",
+            "See-details" : "See details",
+            "payment-methods" : "The clinic accepts payment by",
+            "hide-price" : "Hide price",
+            "no-infor" : " No payment information available"
+        },
+        "booking-modal": {
+            "title": "Information on scheduling medical examinations",
+            "name" : "Full name",
+            "phone-number" :"Phone number",
+            "email" : "Email",
+            "address" : "Address",
+            "reason" : "Reason for medical examination",
+            "birthday" : "Birthday",
+            "gender" :"Gender",
+            "confirm" : "Confirm",
+            "cancel":  "cancel",
+            "priceBooking" : "Schedule a free appointment",
+            "price" :"Medical examination price"
+
+        }
+    },
+    "admin" : {
+        "manage-doctor" : {
+            "title" : "create infor doctor",
+            "choose-doctor" : "Select Doctor",
+            "introductory-information" : "Introductory information",
+            "save" : "Save",
+            "add" : "Add",
+            "price" : "price",
+            "payment" : "payment",
+            "province" : "province",
+            "nameClinic" : "Clinic's name",
+            "addressClinic" : "Clinic's address",
+            "note" : "note",
+            "speciality" :"Choose a speciality",
+            "choose-clinic" : "Choose clinic"
+        }
+    }
+}
